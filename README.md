@@ -42,7 +42,21 @@ Developed a predictive model for fatigue using 10 months of resting heart rate d
 
 ---
 
-### 3. [NFL Team Stats Analysis](https://github.com/charlesdaigre/PROJECT-NFL)  
+### 3. [NFL Player Analysis](https://github.com/charlesdaigre/PROJECT-NFL)  
+**Objective:**  
+Analyzed NFL player data, focusing on positions, colleges, and physical attributes like weight, height, and age.  
+
+**Key Highlights:**  
+- Cleaned and processed player data to standardize formats (e.g., height and birthdate).  
+- Visualized relationships between player attributes such as age and weight for different positions (QB, WR, TE, K).  
+- Analyzed the number of players and quarterbacks per college, identifying trends in college performance.  
+
+**Skills Used:**  
+- Python, Pandas, Seaborn, Matplotlib, Data Visualization  
+
+---
+
+### 4. [NFL Team Stats Analysis](https://github.com/charlesdaigre/PROJECT_NFL_2)  
 **Objective:**  
 Classified NFL team statistics into Offense and Defense to analyze team performance.  
 
@@ -67,4 +81,3 @@ Classified NFL team statistics into Offense and Defense to analyze team performa
 ## **Contact**  
 📫 Feel free to connect with me on [GitHub](https://github.com/charlesdaigre).  
 I'm always open to collaboration and new opportunities!  
-
