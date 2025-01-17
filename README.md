@@ -70,6 +70,21 @@ Classified NFL team statistics into Offense and Defense to analyze team performa
 
 ---
 
+### 5. [RUGBY_PLAYER_STATS](https://github.com/charlesdaigre/RUGBY_PLAYER_STATS)  
+**Objective:**  
+Analyzed rugby player data to predict player positions (Forwards or Backs) based on physical attributes and career performance.  
+
+**Key Highlights:**  
+- Processed and cleaned data for rugby players, including demographic and career performance statistics.  
+- Applied machine learning models to predict player positions based on physical attributes (e.g., age, height, weight).  
+- Visualized player statistics and performance trends using various charts and graphs.  
+- Classified players into positions (Forwards or Backs) based on their attributes.  
+
+**Skills Used:**  
+- Python, Pandas, Scikit-learn, Matplotlib, Seaborn, Data Visualization  
+
+---
+
 ## **Skills**  
 - **Data Analysis:** Python, SQL, BigQuery  
 - **Visualization:** Power BI, Matplotlib, Seaborn  
@@ -80,4 +95,4 @@ Classified NFL team statistics into Offense and Defense to analyze team performa
 
 ## **Contact**  
 📫 Feel free to connect with me on [GitHub](https://github.com/charlesdaigre).  
-I'm always open to collaboration and new opportunities!  
+I'm always open to collaboration and new opportunities!
